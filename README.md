@@ -1,4 +1,5 @@
 # Traitor (изменено в branch1 — коммит 1)
+<!-- Коммит 1 из branch1 после merge -->
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
