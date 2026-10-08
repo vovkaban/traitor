@@ -1,4 +1,6 @@
-# Изменено в branch2
+<<<<<<< HEAD
+# Изменено в branch2 и branch1
+>>>>>>> branch1
 
 .PHONY: build
 build:
