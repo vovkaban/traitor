@@ -1,4 +1,4 @@
-
+# Изменено в branch2
 
 .PHONY: build
 build:
