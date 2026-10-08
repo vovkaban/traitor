@@ -1,4 +1,5 @@
 # Изменено в branch1
+# Коммит 2 из branch1 после merge
 
 .PHONY: build
 build:
